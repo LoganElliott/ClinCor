@@ -95,7 +95,7 @@ public class ClinCorApp {
 		patientClinicalCorrelate = new NewPatientClinicalCorrelatePanel(this, -1);
 		newPatientFrame = new JFrame("ClinCor - New Patient");
 		newPatientFrame.setVisible(true);
-//		newPatientFrame.setResizable(false);
+		newPatientFrame.setResizable(false);
 		newPatientTabbedPane = new JTabbedPane();
 		newPatientTabbedPane.addTab("Patient Demographics", patientDemographics);
 		newPatientTabbedPane.addTab("History", patientHistory);
