@@ -1,0 +1,74 @@
+Patient Number: 2
+
+Date: 07.04.2015
+
+Specialty: Immn
+
+PtCode: MC
+
+Age: 22
+
+Gender: Male
+
+Ethnicity: NZ European
+
+Presenting complaints: 
+
+Hx of presenting complaints: woke up with lower right sharp craming pain, 
+came in, had appedectomy,
+doctors refused to give psyche 
+medication post op, pt self
+discharged against medical
+advice. Came back agian, with incfreased
+pain
+
+Past medical Hx: hx of testicular and groin pain 
+over the past 18months (chronic
+pain)
+
+Medications: ibuprofen, panadol, tramadol
+gabepentin, omeprazole, terzosin
+tempazepam
+
+<html>Allergies/Adverse<br>drug reactions: </html>cefaclor - anaphylaxis
+
+<html>Personal, social<br>and occupational Hx: </html>unemployed, father of 2,. smokes
+cannabis 
+
+Family Hx: arthritis, mental health problems
+fibromyalgia,, CKD
+
+General/Vital signs: obs normal
+
+Cardio: normal
+
+Resp: normal
+
+Abdo: painful on palpitation
+haematoma LIF
+cannot cough
+
+Neuro: 
+
+Ddx: post operative complication
+- peritonitis 
+- abcess/infection
+
+Problem list: 
+
+Management plan: drainage
+observe till sx go away
+
+Overall dx/Clinical Correlates: post operative complication - peritonitis  - abcess/infection
+
+Background of dx/clin cor: background dx		
+
+Common causes: common causes
+
+Pathology/Investigations: pathology invest
+
+Typical Sx: sx
+
+Typical Tx/Rx: tx rx
+
+Prognosis(Px): px

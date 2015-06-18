@@ -1,0 +1,29 @@
+Patient Number: 1
+Date: 123
+Specialty: Onco
+PtCode: 102
+Age: 18
+Gender: Male
+Ethnicity: Eurasian
+Presenting complaints: 
+Hx of presenting complaints: 
+Past medical Hx: 
+Medications: 
+<html>Allergies/Adverse<br>drug reactions: </html>
+<html>Personal, social<br>and occupational Hx: </html>
+Family Hx: 
+General/Vital signs: 
+Cardio: 
+Resp: 
+Abdo: 
+Neuro: 
+Ddx: 
+Problem list: 
+Management plan: 
+Overall dx/Clinical Correlates: Ducati
+Background of dx/clin cor: 
+Common causes: 
+Pathology/Investigations: 
+Typical Sx: 
+Typical Tx/Rx: 
+Prognosis(Px): 

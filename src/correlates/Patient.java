@@ -78,7 +78,15 @@ public class Patient implements Serializable {
 	
 	public String toString() {
 		String n = System.getProperty("line.separator");
-		String info = "Date: " + date + n + "Specialty: " + specialty + n + "PtCode: " + ptCode + n + "Age: " + age;
+		n = n + n;
+		String info = "Patient Number: " + patientNum + n + "Date: " + date + n + "Specialty: " + specialty + n + "PtCode: " + ptCode + n + "Age: " + age
+		+ n + "Gender: " + gender + n + "Ethnicity: " + ethnicity + n + "Presenting complaints: " + n + "Hx of presenting complaints: " + 
+		hxPresentingComplaints + n + "Past medical Hx: " + pastMedicalHx + n + "Medications: " + medications + n + "Allergies/Adverse drug reactions: " + 
+		allergiesAdverse + n + "Personal, social and occupational Hx: " + personalSocialOccuHx + n + "Family Hx: " + familyHx + n +
+		"General/Vital signs: " + generalVitalSigns + n + "Cardio: " + cardio + n + "Resp: " + resp + n + "Abdo: " + abdo + n + "Neuro: " + neuro + n +
+		"Ddx: " + ddx + n + "Problem list: " + problemList + n + "Management plan: " + managementPlan + n + "Overall dx/Clinical Correlates: " + 
+		overallDxClinCor + n + "Background of dx/clin cor: " + backgroundDxClincor + n + "Common causes: " + commonCauses + n + "Pathology/Investigations: " + 
+		pathologyInvestigations + n + "Typical Sx: " + typSx + n + "Typical Tx/Rx: " + typTxRx + n + "Prognosis(Px): " + px;
 		return info;
 	}
 
